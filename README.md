@@ -2,11 +2,12 @@
 Student academic performance classification with neural network
 
 # About the project
-This is a multi-class classification task on students performences. I use variarty of models on this dataset for improving the performance.
+This is a multi-class classification task on students’ performances. I use variety of models on this dataset for improving the performance.
 For example:
-* Using different layer size and different numbers of nuerons in Dense layers.
+
+* Using different layer size and different numbers of neurons in Dense layers.
 * Using Dropout
-* Using BatchNormalization
+* Using Batc hNormalization
 
 This is one my project of Deep Learning course at University of Guilan in winter 2022.
 ## Evaluation
